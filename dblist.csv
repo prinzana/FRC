@@ -1,0 +1,46 @@
+id,password,last_login,fullname,email,username,clan,community,family_name,state_of_residence,lga_of_residence,sex,address,is_active,is_staff,lga_of_origin,occupation,profile_picture,state_of_origin,is_superuser,public_visibility
+1,pbkdf2_sha256$600000$CO1dUBLHTICHAgVBmuW2mq$p1Unm0pEAzSw5lVcSbYfsT+1ZJF8UDuQCYsAd2lrsGQ=,,Your Full Name,your_email@example.com,your_username,Clan Name,Community Name,Family Name,,,,,1,0,,,,,0,1
+2,pbkdf2_sha256$600000$HBnPkAvgsg9C60Op37JLuc$C/fSXedEEKOUqQe7jBGj1Y9xwXi9Pyc4NCktqzmcISM=,,Prince Zana,pzana.fred@gmail.com,Zana,Ragot ona,Amon,Ezima,,,,,1,0,,,,,0,1
+3,pbkdf2_sha256$600000$VU5QhgQw6WfmYgz2cCulaz$l8Iflyd797xQIq4d3XkGoEyhOMiSbrBSJnXz80kT/ko=,,Prince Zana,pzanas.fred@gmail.com,Zee,Ragot ona,Amon,Ezima,,,,,1,0,,,,,0,1
+4,pbkdf2_sha256$600000$a4ol9FspE2Xa1lmQP2ZBVk$Q9DmNIe0yZs86GzDUdG/HQdCxlZpbWzzAxMiKSfo8gI=,,Prince Zana,pzanass.fred@gmail.com,Zees,Ragot ona,Amon,Ezima,,,,,1,0,,,,,0,1
+5,pbkdf2_sha256$600000$yKnoY2KQQgBI7cRByrNYYY$LMq73XpuK7BxIpW2s0tz3jRoplopASebn35ovKdoZmc=,,Prince Zea,pz.fred@gmail.com,Adam,Ragot ona,Amon,Ezima,Cross River,,Male,,1,0,,product,,,0,1
+6,pbkdf2_sha256$600000$GPznHEmxVvWbBAmKckTM4X$NaM4BQRvZDebkw8XyxFsBjBZoEn2KcoQnIZ6nQE9PZk=,,Prince Ekpenyong,pzs.fred@gmail.com,Test,Clan X,Community B,Ezimas,Lagos,xanana,Female,"45
+Martins",1,0,nullssss,Teacher,profiles/profileee_fPdg43l.jpg,Cross Rivers,0,1
+7,pbkdf2_sha256$600000$Qu1lSm8TaCqM8GGMZbg1qT$f6UCVGWoCr1hec6yKgYNX+AzTubvwKdVVOveBF5/v+8=,2024-10-24 21:18:25.366510,zeezee,pzan@gmail.com,zee,,,,,,male,,1,1,,,,,1,1
+8,pbkdf2_sha256$600000$dwN3Zt0sjU6G6ipPNXFjqH$f0+NTNtXV82ueiXCunSO/IzhvNrMPgshoMhS3uK5a8g=,,Your Full Name,yoursss_email@example.com,yours_usernames,Your Clan,Your Community,Your Family Name,,,,,1,0,,,,,0,1
+9,pbkdf2_sha256$600000$7vbch1oAxvq2oJaDce2Ido$8d3Dl0LW68mDkXmg7fEBc/OFVxQlieLziYPB+govkBQ=,,Your Full Name,email@example.com,usernames,Your Clan,Your Community,Your Family Name,,,,,1,0,,,,,0,1
+10,pbkdf2_sha256$600000$shq7dWSkINJEkcTIjCPrDb$JmsuymKbHJJTnZTR8fILaDRdQL6usYJoKMd9ry/s7Bc=,,Your Full Name,emails@example.com,usernaming,Your Clan,Your Community,Your Family Name,,,,,1,0,,,,,0,1
+11,pbkdf2_sha256$600000$NtwAM4FZ1AKBitbRceEwFZ$mI8YkK4PfMB09ihSu55wxQToMFKorU/JgrLGG1eOPDk=,,Your Full Name,zmails@example.com,usernamings,Your Clan,Your Community,Your Family Name,,,,,1,0,,,,,0,1
+12,pbkdf2_sha256$600000$iXoKuqTGWRsq8bl9EcERdx$M6TNX0rxGjzqc6T4Stxax3JTjKmgeUvaPyegxAA0i0E=,,Your Full Name,emadil@example.com,usernamesd,Your Clan,Your Community,Your Family Name,,,,,1,0,,,,,0,1
+13,pbkdf2_sha256$600000$YAdOHglqoD3gfAvn1r80Oo$mzi8naOMPxGWVc9tqNH8M18xAhvW8ch3NzKbdV1nB24=,,Prince Ekpenyong,prinz@gmail.com,Ana,Clan A,Community B,zana,Lagos,xanana,,"45
+Martins",1,0,,Occupation A,,,0,1
+14,pbkdf2_sha256$600000$vGFf1AAie4U5NuWDYBW3p2$p7twZTxXGVXao0R3FVmRGsLlFEmyr6E8WweqXZL8fs4=,,Prince Ekpenyong,prinzana@gmail.com,zana,Clan A,Community B,zana,Lagos,xanana,,"45
+Martins",1,0,,Occupation A,,,0,1
+15,pbkdf2_sha256$600000$kAFGrO8p24tfka7tnR9AFN$e2KmR05h4o8ekazg4gKzjcXosSDO7yBOdGgalWUu6f4=,,Prince Ekpenyong,prinzanaa@gmail.com,Zanad,Clan A,Community A,zana,Lagos,xanana,,"45
+Martins",1,0,,Occupation A,,,0,1
+16,pbkdf2_sha256$600000$LaNCJsJxNVw3mEG8D2wVkY$YNofCPLeSUY6TqP4a1k9RDuqAKrelJLfK2+rkNxIkoE=,,Prince Ekpenyong,prinzanaaa@gmail.com,Zanag,,,zana,No states available,,,"45
+Martins",1,0,,,,,0,1
+17,pbkdf2_sha256$600000$F6ZUlAdRYGXcHfR1Uj3wMQ$gGSh31AnebQnoTvYLcprvwaeobqhk1tur7RRfHJIh8k=,,Prince Ekpenyong,test@gmail.com,xana@gmail.com,Clan A,,Ekpenyong,,,,"Lagos, Nigeria",1,0,,,,,0,1
+18,pbkdf2_sha256$600000$iJcJoEcILvB0TbRp8zCjyQ$+Ioy7OkfXvJIFN0TFga4N2Sq1LNie7NqWoURnVv7Etg=,,Prince Ekpenyong,tests@gmail.com,xana,Clan A,,Ekpenyong,Lagos,dead,,"Lagos, Nigeria",1,0,,Occupation A,,,0,1
+19,pbkdf2_sha256$600000$e7PpYWAw5vvXAw2fjo74aS$o5IlZl/0Rz0gAgilzPZR3YHdVY7JWffETnCWc4GrDlk=,,Prince Ekpenyong,prinzanza@gmail.com,1234@Admin,Clan A,Community A,zana,Lagos,xanana,,"45
+Martins",1,0,,Occupation A,,,0,1
+20,pbkdf2_sha256$600000$fD3ysFDt5nMvtoNyrwFjiy$oILGVnJWYxKzgEY/8KfTNhQHtY7l0+jVC4/rBui3J6c=,,Prince Ekpenyong,texxsts@gmail.com,xanax,Clan A,,Ekpenyong,Lagos,few,,"Lagos, Nigeria",1,0,,Occupation A,,,0,1
+21,pbkdf2_sha256$600000$4mbfyWhxboZxMUfr9GagYV$OPxLeDsS5gFEjJ4lcNoAN4LkopE78I27OMZuJgMTJWI=,,sYour Full Name,syour_email@example.com,syour_username,Your Clan,Your Community,Your Family Name,,,,,1,0,,,,,0,1
+22,pbkdf2_sha256$600000$E61IJdX1sbjhn5rFZyRXXP$WTfMgTO6me2V7M9mMIdMaoqRLnHrXKo4nAm7ES1U3ek=,,Jane Doe,jane.doe@example.com,possy,Clan Name,Community Name,Doe,State Name,LGA Name,,"123 Main St, City, State",1,0,LGA of Origin,Engineer,,State of Origin,0,1
+23,pbkdf2_sha256$600000$ayO2rxXOkxBAVmJIsC55Ju$+fC2xJhPTp0RZXI0t1erAjb91fpJejRLHK71xF9h6kU=,,Prince Ekpenyong,prinze@gmail.com,zea,Clan A,Community A,zana,Lagos,xanana,,"45
+Martins",1,0,,Occupation A,,,0,1
+24,pbkdf2_sha256$600000$BcDabb5toyR64DpZ9ls6tW$XpZsFZo6BUyPzH9WuKhSIDUWjV9kZI/ZynDR08UQhQo=,,Prinz,prinzanahh@gmail.com,Zanah,Clan A,Community A,zana,Lagos,xanana,,"45
+Martins",1,0,,Occupation A,,,0,1
+25,pbkdf2_sha256$600000$NaF9D5iNokt44NLoyliz5U$FU0ZnWGsXNEPdKAzJBOqg3O+O9z47sm6Mm9fmoKrz3I=,,Pjos,pajoe@gmail.com,Boss,Clan X,Community B,Ekpenyong,Lagos,few,Male,45 Martins,1,0,,Occupation A,profiles/grow.jpg,,0,1
+26,pbkdf2_sha256$600000$aBYtIPAaA4fArUX9tcpm27$GB4fxTxMFhRVXwcRXB0sQSwHYeRk3QNhXDd1pgCXeUY=,,Prince Ekpenyong,prinzanag@gmail.com,bosset,Clan A,Community 2,zana,Lagos,xanana,Female,"45
+Martins",1,0,nullssss,Occupation A,profiles/Prince_NIN.jpg,No states available,0,1
+27,pbkdf2_sha256$600000$yeuPOeSqUtc9HQlaIAxaEf$Q64VdpYtZND+gtsrn3Yq2IM4I1Wb4jLsdF5kDSgospk=,,Prince Ekpenyong,prinzansa@gmail.com,Testing,Clan A,Community A,zana,No states available,,,"45
+Martins",1,0,,Occupation B,,,0,1
+28,pbkdf2_sha256$600000$lZIS8gvZt4wURRJc7PTcve$GZbkpjsRlIjum7ccQQtS5bYnJ7KGRwWIajDVYKj24SQ=,,Prince Ekpenyong,zx@gmail.com,Tested,Clan Y,Community A,Ezimas,Lagos,ssss,Male,"45
+Martins",1,0,,Doctor,profiles/logo_web.png,,0,1
+29,pbkdf2_sha256$600000$wsoDWR52aCBc3zNA1hC0uA$Y2eqZcE3+od6iqPsKchdyuOQsm8xE75MVnxTyNFC0Kw=,,Prince Ekpenyong,prinzanzaz@gmail.com,Testeds,Clan X,Community B,zana,Lagos,sdfghjhgfd,Female,"45
+Martins",1,0,,Doctor,profiles/logo_web_v5daTJa.png,,0,1
+30,pbkdf2_sha256$600000$fbTAHVnZZI92ymJMeX3Qks$8aIICTtnmXaNO3PnQqUQ24T62WxuIlEde4Hcs9EB48U=,,Patrick Agba,Patreal@gmail.com,Agba,Clan A,Community A,Agba,Cross River,Mushin,Male,"45
+Martins, Mushin",1,0,,Engineer,profiles/profileee_VemPSBQ.jpg,,0,1
+31,pbkdf2_sha256$600000$2RJsDT1K67vdu81vn17qjx$V5GpbaiE9yTBgGweUOPicTQNRCArmAYMh2Inyy+GzGY=,,EYOWANWAN,unique@gmail.com,unique,Clan X,Community B,Akabom,Abuja,Garimpa,Female,"45
+Martins",1,0,,Doctor,profiles/PrincePassport.jpg,Lagos,0,0

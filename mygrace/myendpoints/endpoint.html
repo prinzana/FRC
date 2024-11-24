@@ -1,0 +1,80 @@
+# User Endpoints
+
+1. User Registration
+   - Endpoint: POST /api/register/
+   - Function: Allows new users to register by providing their username, email, fullname, and password.
+
+2. User Login
+   - Endpoint: POST /api/login/
+   - Function: Authenticates users with their username and password, returning a token for session management.
+
+3. User Profile
+   - Endpoint: GET /api/profiles/
+   - Function: Fetches a list of user profiles. Can include query parameters for searching.
+   
+4. User Profile Detail
+   - Endpoint: GET /api/profiles/<int:id>/
+   - Function: Retrieves detailed information about a specific user profile by ID.
+
+5. Update User Profile
+   - Endpoint: PUT /api/profiles/<int:id>/
+   - Function: Updates a user's profile information, including fields like fullname, email, and profile picture.
+
+6. Delete User Profile
+   - Endpoint: DELETE /api/profiles/<int:id>/
+   - Function: Deletes a user profile by ID.
+
+# Admin Endpoints
+
+1. Dashboard Stats
+   - Endpoint: GET /api/dashboard/stats/
+   - Function: Retrieves statistics such as total users, new registrations in the last 30 days, and verified users.
+
+2. Recent Activities
+   - Endpoint: GET /api/dashboard/recent-activities/
+   - Function: Fetches a list of the most recent user registrations (latest 10 users).
+
+3. Manage Users
+   - Endpoint: GET /api/admin/manage-users/
+   - Function: Retrieves a list of users for admin management.
+
+4. Verify User
+   - Endpoint: POST /api/admin/verify-user/<int:id>/
+   - Function: Verifies a user's account status by ID.
+
+5. Deactivate User
+   - Endpoint: POST /api/admin/deactivate-user/<int:id>/
+   - Function: Deactivates a user account by ID.
+
+6. Delete User
+   - Endpoint: DELETE /api/admin/delete-user/<int:id>/
+   - Function: Permanently deletes a user account by ID.
+
+# Other Endpoints
+
+1. Pending Requests
+   - Endpoint: GET /api/pending-requests/
+   - Function: Retrieves a list of pending verification requests.
+
+2. Create Admin
+   - Endpoint: POST /api/admin/create/
+   - Function: Allows the creation of a new admin user.
+
+
+ACTIVITY APIS
+
+1. /api/activity/
+- Function: ActivityLogListView (GET)
+- Description: Retrieves a list of all activity logs for authenticated users.
+
+2. /api/activity/user/<int:user_id>/
+- Function: ActivityLogUserView (GET)
+- Description: Retrieves the activity logs for a specific user by their user ID.
+
+3. /api/activity/admin/
+- Function: ActivityLogAdminView (GET)
+- Description: Retrieves all activity logs. Admin access.
+
+4. /api/activity/monthly/
+- Function: MonthlyActivityLogView (GET)
+- Description: Retrieves activity log counts for the current month, grouped by action type.
